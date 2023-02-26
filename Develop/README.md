@@ -1,1 +1,1 @@
-"# undefined\n\n""# undefined\n\n""# undefined\n\n""# undefined\n\n"
+"# GENRATE A READ ME\n\n    ## Table of Contents\n  -[Installation](#installation)\n  -[Usage](#Usage)   \n  -[License](#License)\n  -[Github Username](#GitHub Username)\n  -[Email Address](#Email)\n\n\n\n\n  \n\n \n \n \n  ## Description\n  READ ME GEN\n\n \n \n  ## Installation \nNPM IN\n\n\n\n## Usage\ngen\n\n\n\n##License\nMIT\n\n\n\n## Git Hub Username\nfazio\n\n\n\n## Email Address:\nmike\n\n\n"

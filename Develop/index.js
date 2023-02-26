@@ -10,7 +10,7 @@ const questions = function userInput() {
         //Project title
         {
             type: 'input',
-            name: 'name',
+            name: 'title',
             message: 'What is the name of your project?',
         },
 
@@ -36,9 +36,9 @@ const questions = function userInput() {
 
         //license goes here
         {
-            type: 'checkbox',
-            message: 'What license did you use?',
+            type: 'list',
             name: 'license',
+            message: 'What license did you use?',
             choices: ['MIT', 'GPLv2', 'Apache', 'Other'],
             default: 'MIT',
 
@@ -62,7 +62,7 @@ const questions = function userInput() {
 //Creates a Markdown File
 
 const createMD = data => {
-    fs.appendFile('README.md', JSON.stringify(data, null, '\t'), err =>
+    fs.writeFile('README.md', JSON.stringify(data, null, '\t'), (err) =>
         err ? console.log(err) : console.log('Success!')
     );
 };
