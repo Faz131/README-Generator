@@ -1,1 +1,47 @@
-"# GENRATE A READ ME\n\n    ## Table of Contents\n  -[Installation](#installation)\n  -[Usage](#Usage)   \n  -[License](#License)\n  -[Github Username](#GitHub Username)\n  -[Email Address](#Email)\n\n\n\n\n  \n\n \n \n \n  ## Description\n  READ ME GEN\n\n \n \n  ## Installation \nNPM IN\n\n\n\n## Usage\ngen\n\n\n\n##License\nMIT\n\n\n\n## Git Hub Username\nfazio\n\n\n\n## Email Address:\nmike\n\n\n"
+<h1>test</h1>
+
+    ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#Usage)   
+  - [License](#License)
+  - [Github Username](#GitHub Username)
+  - [Email Address](#Email)
+
+
+
+
+  [![Apache: Apache](https://img.shields.io/badge/License-Apache-blue.svg)]
+  https://opensource.org/licenses/Apache-2.0
+
+ 
+ 
+ 
+  ## Description
+  test
+
+ 
+ 
+  ## Installation 
+tset
+
+
+
+## Usage
+tst
+
+
+
+##License
+Apache
+
+
+
+## Git Hub Username
+tset
+
+
+
+## Email Address:
+tset
+
+
