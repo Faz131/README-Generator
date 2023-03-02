@@ -82,9 +82,7 @@ ${data.GitHubUsername}
 
 
 ## Email Address:
-${data.email}
-
-
+${data.email} 
 `;
 }
 

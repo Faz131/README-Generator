@@ -1,4 +1,4 @@
-<h1>test</h1>
+<h1>README Generator</h1>
 
     ## Table of Contents
   - [Installation](#installation)
@@ -10,38 +10,40 @@
 
 
 
-  [![Apache: Apache](https://img.shields.io/badge/License-Apache-blue.svg)]
-  https://opensource.org/licenses/Apache-2.0
+  [![MIT: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  https://opensource.org/licenses/MIT
 
  
  
  
   ## Description
-  test
+  This project was to use prompts created in JavaScript along with inquirer to help create a dynamic README.MD
 
  
  
   ## Installation 
-tset
+NPM Inquirer 8.2.4
 
 
 
 ## Usage
-tst
+To help a user create a fast and professional looking README
 
 
 
 ##License
-Apache
+MIT
 
 
 
 ## Git Hub Username
-tset
+faz131
 
 
 
 ## Email Address:
-tset
+fazms@icloud.com 
 
 
+Walk Through video:
+https://drive.google.com/file/d/1Ti0B5UU37PPW1T8uGwWopocWh6JFmtED/view
